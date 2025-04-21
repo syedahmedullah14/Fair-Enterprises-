@@ -20,9 +20,15 @@ const Navbar = () => {
       className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-sm border-b border-fair-blue/20 shadow-sm"
     >
       <div className="container flex items-center justify-between h-16 px-4 md:px-6">
-        <Link to="/" className="text-2xl font-bold text-fair-blue">
+        {/* <Link to="/" className="text-2xl font-bold text-fair-blue">
           Fair Enterprises
-        </Link>
+        </Link> */}
+        <img
+
+          src="fe.webp"
+          alt="logo"
+          className="w-30 h-10 object-cover transition-transform duration-500 group-hover:scale-110"
+        />
 
         {/* Desktop Menu */}
         <nav className="hidden md:flex items-center space-x-6">
