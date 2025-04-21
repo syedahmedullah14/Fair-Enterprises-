@@ -81,7 +81,7 @@ const About = () => {
             >
               <div className="aspect-square rounded-lg overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1493962853295-0fd70327578a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+                  src="https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Agricultural landscape"
                   className="w-full h-full object-cover"
                 />
