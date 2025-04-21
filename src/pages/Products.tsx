@@ -44,7 +44,6 @@ const products: Product[] = [
     origin: "India",
     images: [
       "https://images.unsplash.com/photo-1586201375761-83865001e31c?q=80&w=2070&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1612708345411-43e928ae5c84?q=80&w=2070&auto=format&fit=crop"
     ]
   },
   {

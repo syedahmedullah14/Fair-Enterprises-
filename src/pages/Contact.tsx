@@ -206,10 +206,10 @@ const Contact = () => {
                   <div className="space-y-2">
                     <p className="font-medium">Headquarters:</p>
                     <address className="not-italic text-muted-foreground">
-                      <p>A.M. HIND PRIVATE LIMITED  KHASRA NO. 1624</p>
+                      {/* <p>A.M. HIND PRIVATE LIMITED  KHASRA NO. 1624</p>
                       <p>SHEENAI FARM, R.K. PURAM, GOVINDPURAM </p>
                       <p>GHAZIABAD, Uttar Pradesh 201002 </p>
-                      <p>India</p>
+                      <p>India</p> */}
                     </address>
                     <p className="font-medium mt-3">Office Hours:</p>
                     <p className="text-muted-foreground">Monday - Friday: 9:00 AM - 6:00 PM IST</p>
