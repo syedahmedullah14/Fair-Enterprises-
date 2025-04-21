@@ -194,6 +194,36 @@ const About = () => {
           </motion.div>
         </div>
       </motion.section>
+
+      {/* Certificates Section */}
+      <motion.section
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true, amount: 0.2 }}
+        className="py-16 md:py-24 bg-white"
+      >
+        <div className="container px-4 md:px-6">
+          <motion.div variants={fadeIn} className="max-w-4xl mx-auto">
+            <h2 className="text-3xl font-bold text-primary mb-6">Our Certifications</h2>
+            <div className="prose prose-lg max-w-none text-muted-foreground">
+              <p className="mb-4">
+                Our authenticity can be viewed through our following government 
+                issued certifications recognised globally:
+              </p>
+              <ul className="list-disc pl-6">
+                <li>Certificate of compliance to meet the requirements of HACCP</li>
+                <li>ISO 9001-2015 QFS management system</li>
+                <li>ISO 22000 - 2018</li>
+                <li>HALAL CERTIFICATION BY HMC</li>
+              </ul>
+              <p className="mt-4">
+                These certifications demonstrate our commitment to quality, 
+                safety, and international standards in food production and export.
+              </p>
+            </div>
+          </motion.div>
+        </div>
+      </motion.section>
       
       <Footer />
     </div>
