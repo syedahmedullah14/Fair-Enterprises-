@@ -54,7 +54,7 @@ const products: Product[] = [
     details: "Our Organic Quinoa is cultivated in the high altitudes of the Andes using traditional farming methods. This complete protein source is certified organic and gluten-free, making it a versatile ingredient for health-conscious consumers. Available in white, red, and black varieties, our quinoa undergoes rigorous quality testing to ensure premium quality.",
     origin: "Peru",
     images: [
-      "../public/Quinoa.webp"
+      "https://plus.unsplash.com/premium_photo-1705207702015-0c1f567a14df?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ]
   },
   {
