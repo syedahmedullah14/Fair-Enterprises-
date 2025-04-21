@@ -43,7 +43,10 @@ const Navbar = () => {
           <Link to="/contact" className="text-foreground hover:text-fair-red transition-colors">
             Contact
           </Link>
+          
+          <Link to="/contact">
           <Button className="bg-fair-blue hover:bg-fair-red text-white">Request Quote</Button>
+          </Link>
         </nav>
 
         {/* Mobile Menu Button */}

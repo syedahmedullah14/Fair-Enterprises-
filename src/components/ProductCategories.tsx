@@ -27,7 +27,7 @@ const productCategories: ProductCategory[] = [
     id: 3,
     name: "Frozen Bovine",
     description: "Premium quality frozen bovine products with highest safety standards.",
-    image: "public/Bovine.jpeg"
+    image: "https://images.unsplash.com/photo-1560781290-7dc94c0f8f4f?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const productCategories: ProductCategory[] = [
     id: 5,
     name: "Lentils",
     description: "Nutrient-rich lentils and pulses, essential protein sources.",
-    image: "public/lentils.jpg"
+    image: "https://plus.unsplash.com/premium_photo-1700842181817-e7f4c9fa828a?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     id: 6,
