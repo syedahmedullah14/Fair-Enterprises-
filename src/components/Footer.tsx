@@ -112,11 +112,11 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <address className="not-italic text-white/80">
-              <p className="mb-2">123 Export Avenue</p>
-              <p className="mb-2">Business District</p>
-              <p className="mb-2">Global City, 54321</p>
-              <p className="mb-2">Phone: +1 (555) 123-4567</p>
-              <p className="mb-2">Email: info@harvestglobal.com</p>
+              <p className="mb-2">A.M. HIND PRIVATE LIMITED  KHASRA NO. 1624</p>
+              <p className="mb-2">SHEENAI FARM, R.K. PURAM, GOVINDPURAM</p>
+              <p className="mb-2">GHAZIABAD, Uttar Pradesh 201002</p>
+              <p className="mb-2">Phone:+91 7428555496, 7042712220</p>
+              <p className="mb-2">Email: info@amhindexport.com</p>
             </address>
           </div>
         </div>

@@ -151,11 +151,11 @@ const Contact = () => {
                 <CardContent>
                   <div className="space-y-2">
                     <p className="font-medium">General Inquiries:</p>
-                    <p className="text-muted-foreground">info@harvestglobal.com</p>
+                    <p className="text-muted-foreground">info@amhindexport.com</p>
                     <p className="font-medium mt-3">Sales Department:</p>
-                    <p className="text-muted-foreground">sales@harvestglobal.com</p>
+                    <p className="text-muted-foreground">milan@amhindexport.com</p>
                     <p className="font-medium mt-3">Support:</p>
-                    <p className="text-muted-foreground">support@harvestglobal.com</p>
+                    <p className="text-muted-foreground">milansharma23@gmail.com</p>
                   </div>
                 </CardContent>
               </Card>
@@ -178,11 +178,11 @@ const Contact = () => {
                 <CardContent>
                   <div className="space-y-2">
                     <p className="font-medium">Main Office:</p>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground">+91 7428555496</p>
                     <p className="font-medium mt-3">International Sales:</p>
-                    <p className="text-muted-foreground">+1 (555) 987-6543</p>
+                    <p className="text-muted-foreground">+91 7042712220</p>
                     <p className="font-medium mt-3">Customer Support:</p>
-                    <p className="text-muted-foreground">+1 (555) 456-7890</p>
+                    <p className="text-muted-foreground">+91 7042712220</p>
                   </div>
                 </CardContent>
               </Card>
@@ -206,13 +206,13 @@ const Contact = () => {
                   <div className="space-y-2">
                     <p className="font-medium">Headquarters:</p>
                     <address className="not-italic text-muted-foreground">
-                      <p>123 Export Avenue</p>
-                      <p>Business District</p>
-                      <p>Global City, 54321</p>
-                      <p>United States</p>
+                      <p>A.M. HIND PRIVATE LIMITED  KHASRA NO. 1624</p>
+                      <p>SHEENAI FARM, R.K. PURAM, GOVINDPURAM </p>
+                      <p>GHAZIABAD, Uttar Pradesh 201002 </p>
+                      <p>India</p>
                     </address>
                     <p className="font-medium mt-3">Office Hours:</p>
-                    <p className="text-muted-foreground">Monday - Friday: 9:00 AM - 6:00 PM EST</p>
+                    <p className="text-muted-foreground">Monday - Friday: 9:00 AM - 6:00 PM IST</p>
                   </div>
                 </CardContent>
               </Card>
@@ -419,7 +419,7 @@ const Contact = () => {
       </motion.section>
       
       {/* Map Section */}
-      <section className="py-12 bg-white">
+      {/* <section className="py-12 bg-white">
         <div className="container px-4 md:px-6">
           <motion.div
             initial="hidden"
@@ -458,7 +458,7 @@ const Contact = () => {
             </p>
           </motion.div>
         </div>
-      </section>
+      </section> */}
       
       <Footer />
     </div>
