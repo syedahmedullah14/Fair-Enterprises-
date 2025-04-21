@@ -54,7 +54,7 @@ const products: Product[] = [
     details: "Our Organic Quinoa is cultivated in the high altitudes of the Andes using traditional farming methods. This complete protein source is certified organic and gluten-free, making it a versatile ingredient for health-conscious consumers. Available in white, red, and black varieties, our quinoa undergoes rigorous quality testing to ensure premium quality.",
     origin: "Peru",
     images: [
-      "/public/Quinoa.webp"
+      "../public/Quinoa.webp"
     ]
   },
   {
@@ -65,7 +65,7 @@ const products: Product[] = [
     details: "Our Premium Beef Striploin is sourced from grass-fed cattle raised in sustainable farming environments. The meat undergoes careful aging to enhance tenderness and flavor development. Each cut is precisely trimmed to exacting specifications and flash-frozen to lock in freshness. Available in various grades to meet different market requirements, from premium foodservice to retail.",
     origin: "Australia",
     images: [
-      "/public/beef.webp"
+      "../public/beef.webp"
     ]
   },
   {
@@ -76,7 +76,7 @@ const products: Product[] = [
     details: "Our Red Lentils are carefully selected for uniform size, color, and cooking quality. These split lentils cook quickly, breaking down into a creamy consistency that's perfect for soups, stews, and curry dishes. Each batch undergoes cleaning, sorting, and quality testing to ensure freedom from foreign materials and consistent cooking performance. Available in bulk quantities for food manufacturing and retail packaging.",
     origin: "Turkey",
     images: [
-      "/public/red-lentils.jpg"
+      "../public/red-lentils.jpg"
     ]
   },
   {
@@ -87,7 +87,7 @@ const products: Product[] = [
     details: "Our Turmeric Powder is made from the finest turmeric rhizomes, carefully selected for their high curcumin content. Each batch is tested for color strength, purity, and flavor. The turmeric is slowly dried and ground to preserve its essential oils and medicinal properties. Ideal for culinary applications as well as the health food and supplement industries.",
     origin: "India",
     images: [
-      "/public/turmeric.jpg"
+      "../public/turmeric.jpg"
     ]
   },
   {
@@ -222,7 +222,7 @@ const Products = () => {
           className="absolute inset-0 z-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "url('public/lentils.jpg')",
+              "url('../public/lentils.jpg')",
           }}
         >
           <div className="absolute inset-0 bg-black/60"></div>
