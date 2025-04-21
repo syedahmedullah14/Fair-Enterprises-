@@ -116,7 +116,7 @@ const Footer = () => {
               <p className="mb-2">SHEENAI FARM, R.K. PURAM, GOVINDPURAM</p>
               <p className="mb-2">GHAZIABAD, Uttar Pradesh 201002</p> */}
               <p className="mb-2">Phone:+91 7428555496, 7042712220</p>
-              <p className="mb-2">Email: info@amhindexport.com</p>
+              <p className="mb-2">Email: info@fair-enterprises.com</p>
             </address>
           </div>
         </div>

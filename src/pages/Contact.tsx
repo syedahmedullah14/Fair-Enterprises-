@@ -151,7 +151,7 @@ const Contact = () => {
                 <CardContent>
                   <div className="space-y-2">
                     <p className="font-medium">General Inquiries:</p>
-                    <p className="text-muted-foreground">info@amhindexport.com</p>
+                    <p className="text-muted-foreground">info@fair-enterprises.com</p>
                     <p className="font-medium mt-3">Sales Department:</p>
                     <p className="text-muted-foreground">milan@amhindexport.com</p>
                     <p className="font-medium mt-3">Support:</p>
