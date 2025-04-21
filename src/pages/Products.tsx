@@ -65,7 +65,7 @@ const products: Product[] = [
     details: "Our Premium Beef Striploin is sourced from grass-fed cattle raised in sustainable farming environments. The meat undergoes careful aging to enhance tenderness and flavor development. Each cut is precisely trimmed to exacting specifications and flash-frozen to lock in freshness. Available in various grades to meet different market requirements, from premium foodservice to retail.",
     origin: "Australia",
     images: [
-      "../public/beef.webp"
+      "https://images.unsplash.com/photo-1690983322025-aab4f95a0269?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ]
   },
   {
@@ -76,7 +76,7 @@ const products: Product[] = [
     details: "Our Red Lentils are carefully selected for uniform size, color, and cooking quality. These split lentils cook quickly, breaking down into a creamy consistency that's perfect for soups, stews, and curry dishes. Each batch undergoes cleaning, sorting, and quality testing to ensure freedom from foreign materials and consistent cooking performance. Available in bulk quantities for food manufacturing and retail packaging.",
     origin: "Turkey",
     images: [
-      "../public/red-lentils.jpg"
+      "https://plus.unsplash.com/premium_photo-1700842181817-e7f4c9fa828a?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ]
   },
   {
@@ -87,7 +87,7 @@ const products: Product[] = [
     details: "Our Turmeric Powder is made from the finest turmeric rhizomes, carefully selected for their high curcumin content. Each batch is tested for color strength, purity, and flavor. The turmeric is slowly dried and ground to preserve its essential oils and medicinal properties. Ideal for culinary applications as well as the health food and supplement industries.",
     origin: "India",
     images: [
-      "../public/turmeric.jpg"
+      "https://images.unsplash.com/photo-1615485500834-bc10199bc727?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     ]
   },
   {
@@ -222,7 +222,7 @@ const Products = () => {
           className="absolute inset-0 z-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "url('../public/lentils.jpg')",
+              "url('https://images.unsplash.com/photo-1529511582893-2d7e684dd128?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')",
           }}
         >
           <div className="absolute inset-0 bg-black/60"></div>
