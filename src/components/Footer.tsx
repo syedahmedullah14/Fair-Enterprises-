@@ -115,8 +115,12 @@ const Footer = () => {
               {/* <p className="mb-2">A.M. HIND PRIVATE LIMITED  KHASRA NO. 1624</p>
               <p className="mb-2">SHEENAI FARM, R.K. PURAM, GOVINDPURAM</p>
               <p className="mb-2">GHAZIABAD, Uttar Pradesh 201002</p> */}
-              <p className="mb-2">Phone:+91 7428555496, 7042712220</p>
-              <p className="mb-2">Email: info@fair-enterprises.com</p>
+               <p>8-1-402/33, Flat No 701, Masafy Bright Residency</p>
+                      <p>Gulshan Colony, Toli Chowki</p>
+                      <p>Hyderabad 500008 </p>
+                      <p>Telangana, India</p>
+              <p className="mb-2">Phone:+91 9892256824</p>
+              <p className="mb-2">Email: mvm@fair-enterprises.com</p>
             </address>
           </div>
         </div>

@@ -151,11 +151,11 @@ const Contact = () => {
                 <CardContent>
                   <div className="space-y-2">
                     <p className="font-medium">General Inquiries:</p>
-                    <p className="text-muted-foreground">info@fair-enterprises.com</p>
+                    <p className="text-muted-foreground">mvm@fair-enterprises.in</p>
                     <p className="font-medium mt-3">Sales Department:</p>
-                    <p className="text-muted-foreground">milan@amhindexport.com</p>
+                    <p className="text-muted-foreground">sales@fair-enterprises.com</p>
                     <p className="font-medium mt-3">Support:</p>
-                    <p className="text-muted-foreground">milansharma23@gmail.com</p>
+                    <p className="text-muted-foreground">mvm@fair-enterprises.in</p>
                   </div>
                 </CardContent>
               </Card>
@@ -178,11 +178,11 @@ const Contact = () => {
                 <CardContent>
                   <div className="space-y-2">
                     <p className="font-medium">Main Office:</p>
-                    <p className="text-muted-foreground">+91 7428555496</p>
+                    <p className="text-muted-foreground">+91 9892256824</p>
                     <p className="font-medium mt-3">International Sales:</p>
-                    <p className="text-muted-foreground">+91 7042712220</p>
+                    <p className="text-muted-foreground">+91 9892256824</p>
                     <p className="font-medium mt-3">Customer Support:</p>
-                    <p className="text-muted-foreground">+91 7042712220</p>
+                    <p className="text-muted-foreground">+91 9892256824</p>
                   </div>
                 </CardContent>
               </Card>
@@ -206,10 +206,10 @@ const Contact = () => {
                   <div className="space-y-2">
                     <p className="font-medium">Headquarters:</p>
                     <address className="not-italic text-muted-foreground">
-                      {/* <p>A.M. HIND PRIVATE LIMITED  KHASRA NO. 1624</p>
-                      <p>SHEENAI FARM, R.K. PURAM, GOVINDPURAM </p>
-                      <p>GHAZIABAD, Uttar Pradesh 201002 </p>
-                      <p>India</p> */}
+                      <p>8-1-402/33, Flat No 701, Masafy Bright Residency</p>
+                      <p>Gulshan Colony, Toli Chowki</p>
+                      <p>Hyderabad 500008 </p>
+                      <p>Telangana, India</p>
                     </address>
                     <p className="font-medium mt-3">Office Hours:</p>
                     <p className="text-muted-foreground">Monday - Friday: 9:00 AM - 6:00 PM IST</p>

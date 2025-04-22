@@ -58,20 +58,16 @@ const About = () => {
               <h2 className="text-3xl font-bold text-primary mb-6">About Fair Enterprises</h2>
               <div className="prose prose-lg max-w-none text-muted-foreground">
                 <p className="mb-4">
-                  AM HIND Exports is a professionally managed and well-established company, which deals in export of various products to various countries. Frozen Buffalo meat is our speciality. Company encompasses exceptional ability and outstanding strength in fulfilling the growth demands of International buyers.
-                </p>
+                Fair Enterprises is a professionally managed and well-established export company based in India, renowned for delivering premium quality agricultural and food products across global markets. Our core strength lies in our specialization in Frozen Buffalo Meat, complemented by a growing portfolio that includes processed foods, spices, lentils, grains, and more.                </p>
                 <p className="mb-4">
-                  Starting with just few numbers on our supply list in the year 2019, we have grown to offer more products of export like Processed food, spices etc.
-                </p>
+                Since our inception in 2019, we’ve evolved from a modest product lineup into a trusted export partner offering a diverse range of high-quality commodities to meet the dynamic needs of international buyers. Our journey is defined by commitment, excellence, and the belief that “We Deliver Only the Best.”                </p>
                 <p className="mb-4">
-                  The Head Office in Ghaziabad is not only at easy access for visitors but also serves us better to coordinate and monitor the production at our Meat Processing House which is located at Sahibabad Industrial Area. The Product We Supply and serve to our Clients are HACCP approved and ISO certified.
-                </p>
+                Our operations are headquartered in Gulshan Colony, Toli Chowki, Hyderabad, Telangana, a strategically located hub offering smooth connectivity. This location ensures efficient coordination with our state-of-the-art meat processing facility, and easy accessibility for visiting clients and partners.                </p>
                 <p className="text-lg font-semibold text-secondary">
                   "BELIEVE IN DELIVERING THE BEST"
                 </p>
                 <p>
-                  Our Quality control team checks the quality of product at the processing and makes sure only the best gets packed.
-                </p>
+                Our products meet HACCP standards and are ISO-certified, with rigorous quality checks carried out at every stage of processing — ensuring only the finest goods are packed and shipped globally.                </p>
               </div>
             </motion.div>
             
@@ -104,14 +100,10 @@ const About = () => {
             <h2 className="text-3xl font-bold text-primary mb-6">Location and Procurement</h2>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p className="mb-4">
-                As The Head Office is located In Ghaziabad is not only at easy access for visitors but also serves us better to coordinate and monitor the production at our Processing House Which is located at Sahibabad Industrial Area. The Product We Supply and serve to our Clients are HACCP approved and ISO certified.
-              </p>
+              Our head office, located in Gulshan Colony, Toli Chowki, Hyderabad 500008, offers both convenience and connectivity, just 45 minutes from the airport and 25 minutes from the nearest train station. This prime location enables seamless coordination with our advanced meat processing plant, positioned for operational efficiency and visitor accessibility.              </p>
               <p className="mb-4">
-                This makes it really easy for our Buyers to visit our Head office and Processing plant for their complete satisfaction. The location is easily accessible and only 45mins from Airport and 25mins from Train Station.
-              </p>
-              <p>
-                As we are sitting in the heart of country/Also a Buffalo meat capital Ghazipur it also makes us enjoy the benefit of the selection of the animal of our own choice and of best quality. On top of that, the location around us is also countryside and village post areas where we can get best of the cattle from local farmers where they get fed only natural diet and greens.
-              </p>
+              Being situated in Telangana — a region rich in agricultural and livestock resources — allows us access to top-quality cattle raised by local farmers on natural, green diets. This geographic advantage empowers us to personally select superior livestock and raw materials, maintaining an uncompromising standard of quality in all our exports.              </p>
+
             </div>
           </motion.div>
         </div>
@@ -129,19 +121,31 @@ const About = () => {
             <h2 className="text-3xl font-bold text-primary mb-6">Our Objectives</h2>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p className="mb-4">
-                AM HIND Exports will be the most preferred brand of frozen meat products from India. It will be the first choice for all importers, retailers, manufacturers & caterers and with its progressive and dynamic entity will set standards which other brands will seek to match.
-              </p>
+              At Fair Enterprises, our vision is clear:
+              To be the most preferred and trusted brand of frozen meat and Indian agricultural products in the global market.              </p>
               <p className="mb-4">
-                We as a brand would like to stretch our hand and feet to all international waters and not limit our self Asia Pacific only. Our Strategy is to get involved and spread Indian Water Buffalo Meat and eatables / Specialities all across the globe.
-              </p>
+              We aim to become the first choice for importers, retailers, manufacturers, and food service providers worldwide — not just in the Asia-Pacific region, but across all international markets. Our ambition is to bring India’s culinary richness and heritage to tables across the globe.              </p>
               <p className="mb-4">
-                Fair Enterprises will achieve these objectives whilst simultaneously ensuring regular returns to its buyers/importers and providing its employees with an environment for excellence and growth.
-              </p>
+              In addition to our meat exports, we are proud to offer premium Indian rice varieties, grown in geographically distinct and nutrient-rich regions, delivering unmatched flavor and quality.              </p>
               <p className="mb-4">
-                Our Objective is to enhance & spread Indian grown rice varieties to rest of the world to enjoy the flavour of India on their dinner tables. The rice variety we do here at AM Hind Pvt. Ltd. is the best quality which is been grown in only certain specific geographic locations in India providing exceptional soil quality advantages.
+              Our promise:
+              <ul>
+                <li>
+                Consistent high-quality products
+                </li>
+                <li>
+                Competitive pricing
+                </li>
+                <li>
+                Reliable service
+                </li>
+                <li>
+                And a long-term vision of growth for both our partners and our internal team
+                </li>
+              </ul>
               </p>
               <p>
-                By keeping the quality high and competitive pricing make us stand tall in this competitive market and gives our buyers a confidence to get the right quality at right price as "WE BELIEVE IN DELIVERING THE BEST".
+              Because at Fair Enterprises, “We Don’t Compromise — We Deliver the Best.”
               </p>
             </div>
           </motion.div>
@@ -160,14 +164,25 @@ const About = () => {
             <h2 className="text-3xl font-bold text-primary mb-6">Opportunities</h2>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p className="mb-4">
-                A.M Hind Pvt. Ltd. provides you an opportunity to get associated with us and you can have a great field to play and grow with the brand. Quantity and quality is assured when we adjoined hands with our buyers and partners.
+              Partnering with Fair Enterprises opens the door to immense growth potential. Our modern, world-class infrastructure includes:
               </p>
               <p className="mb-4">
-                The firm has established a modern state of art meat processing complex. The meat complex or slaughter house machineries imported from best of the international brands, deboning and freezing plant are also imported, a rendering plant and a U.A.S.B. based effluent treatment plant are there in our procurement brands.
+              An internationally equipped meat processing complex
               </p>
               <p className="mb-4">
-                All the generators in our factories & our trailers are powered by green fuel produced by us in this compound itself. All above facilitation gives us an Opportunity to gain the trust of our buyers and importers to get best of the quality better than all existing brands in Indian land who provide Frozen meat as product to International land.
+              Advanced deboning and freezing technology
               </p>
+              <p className="mb-4">
+              Environmentally conscious green-fueled generators and trailers
+              </p>
+              <p className="mb-4">
+              On-site UASB-based effluent treatment for sustainable operations
+              </p>
+              <p className="mb-4">
+              All machinery and processing tools are sourced from top-tier international brands, ensuring that our quality consistently meets — and exceeds — global standards.              
+              </p>
+              <p className="mb-4">
+              This robust ecosystem allows us to gain the trust of our global clientele, distinguishing us from competitors in the Indian frozen meat industry and agricultural export space.              </p>
             </div>
           </motion.div>
         </div>
@@ -185,11 +200,24 @@ const About = () => {
             <h2 className="text-3xl font-bold text-primary mb-6">Client Relationship Management</h2>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p className="mb-4">
-                AM HIND Pvt. believe in the resolution of all queries from our customers first. We have the best technology-based call centres where our representatives help customers, buyers, importers by tracking shipments, taking orders online or on call, or any product related issues.
+              At Fair Enterprises, our customers are at the heart of everything we do. We operate with a fully equipped, technology-driven call center to handle:
+              <ul>
+                <li>
+                Shipment tracking
+                </li>
+                <li>
+                Order placements
+                </li>
+                <li>
+                Product-related queries
+                </li>
+                <li>
+                After-sales support
+                </li>
+              </ul>
               </p>
               <p>
-                We have an authentic configuration to correspond to international working hours. Our 24 * 7 staff works accordingly to meet the working hours of the available international clientele.
-              </p>
+              We maintain a 24/7 global service model, ensuring real-time communication and support across different time zones. Our dedicated team works tirelessly to offer reliable, responsive, and professional service — every time.              </p>
             </div>
           </motion.div>
         </div>
